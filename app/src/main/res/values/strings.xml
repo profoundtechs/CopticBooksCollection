@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Coptic Books Collection</string>
+    <string name="content_will_be_here">Content will be here</string>
+    <string name="chapter_will_be_here">Chapter will be here</string>
+    <string name="subtitles">Subtitles</string>
+    <string name="subtitles_here">Subtitles here</string>
+    <string name="a_day_with_lord_jesus">A Day with Lord Jesus</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <!-- Special characters-->
+    <string name="left">&#xf0d9;</string>
+    <string name="right">&#xf0da;</string>
+    <string name="search">Search</string>
+    <string name="list_of_books">Coptic Books Collection</string>
+    <string name="back_to_top">BACK TO TOP</string>
+
+    <!--Descriptions-->
+    <string name="preface">The app contains a collection of books from the ancient Church of Alexandria (the Coptic Church).
+        Most of the books were written by the late pope, Pope Shenouda III. There are eight books in this collection. Books can
+    be accessed from the navigation drawer by clicking the button at the top left of the app. Happy reading!</string>
+    <string name="start_page">Start Page</string>
+</resources>
